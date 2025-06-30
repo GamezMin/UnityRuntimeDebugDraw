@@ -1,8 +1,9 @@
 # UnityRuntimeDebugDraw
 According to jagt's https://github.com/jagt/unity3d-runtime-debug-draw , this is a modified version of RuntimeDebugDraw .
-Runtime DrawLine/DrawRay /DrawBox/DrawCircle/DrawSphere / DrawText for DEBUGGING , that works in both Scene/Game view, also works in built PC/mobile builds.
 
 I add some new features, eg: DrawBox, DrawCircle, DrawSphere.
+
+You can  DrawLine/DrawRay /DrawBox/DrawCircle/DrawSphere / DrawText for DEBUGGING in Game view , works  both in built PC/mobile And unity editor.
 
 # How to USE
 1. Add 'RuntimeDebugDrawDriver.cs' to a GameObject in your scene.
